@@ -138,6 +138,7 @@ LRESULT Controller::Keyboard(int Code, WPARAM wParam, LPARAM lParam)
 		{
 			gInterface.DrawMessage(1, "Tron Glow Settings");
 		}
+		break;
 			// --
 		case VK_F12:
 			{
